@@ -1,6 +1,6 @@
 <?php
 
-namespace Gold688\QueryList;
+namespace Roy688\QueryList;
 
 use Illuminate\Support\Facades\Facade;
 
