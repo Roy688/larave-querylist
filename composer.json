@@ -2,7 +2,6 @@
     "name": "roy688/laravel-querylist",
     "type": "laravel-packages",
     "require": {
-        "laravel/framework": "^5.6",
         "jaeger/querylist": "^4.0"
     },
     "license": "MIT",
