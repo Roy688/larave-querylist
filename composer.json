@@ -11,7 +11,6 @@
             "email": "slaythia@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Roy688\\QueryList\\": "src/"
