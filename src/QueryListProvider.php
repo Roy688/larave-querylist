@@ -46,7 +46,7 @@ class QueryListProvider extends ServiceProvider
      */
     protected function registerAliases()
     {
-      $this->app->alias('querylist', 'QL\QueryList');
+        $this->app->alias('querylist', 'QL\QueryList');
     }
 
     /**
